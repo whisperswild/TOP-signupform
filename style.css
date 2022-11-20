@@ -1,0 +1,29 @@
+:root {
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Saira Condensed', sans-serif;
+}
+body{
+
+}
+.header{}
+
+.container{    
+    display: flex;
+    flex-direction: column;
+}
+
+.content{}
+
+.info-panel{}
+
+.login-form{}
+
+.form-element{}
+
+.form-label{}
+
+.form-block{}
+
+.signin-signup{}
+
+.footer{}
