@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Fredericka+the+Great&family=IBM+Plex+Serif&display=swap');
+
 :root {
-    font-family: 'Russo One', sans-serif;
-    font-family: 'Saira Condensed', sans-serif;
+    font-family: 'IBM Plex Serif', serif;
     padding: 0;
     margin: 0;
 }
@@ -65,11 +66,12 @@ a {
 }
 
 .hero-text {
+    font-family: 'Fredericka the Great', cursive;
     color: #bf3c30;
     font-size: 3rem;
     background: rgba(0,0,0, .5);
     min-width: 100%;
-    padding-left: 10%;
+    padding-left: 15%;
 }
 
 .content {
